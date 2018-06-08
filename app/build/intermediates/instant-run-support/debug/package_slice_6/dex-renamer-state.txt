@@ -1,0 +1,4 @@
+#Fri Jun 08 06:32:52 BRT 2018
+base.0=C\:\\Users\\Bruno\\AndroidStudioProjects\\spritedex\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+renamed.0=classes.dex
+file.0=C\:\\Users\\Bruno\\AndroidStudioProjects\\spritedex\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7\\classes.dex

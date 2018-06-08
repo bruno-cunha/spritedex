@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\brunocunha\\Desktop\\spritedex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\brunocunha\\Desktop\\spritedex\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\brunocunha\\Desktop\\spritedex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher_round.png",
+        "source": "C:\\Users\\brunocunha\\Desktop\\spritedex\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\brunocunha\\Desktop\\spritedex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher_foreground.png",
+        "source": "C:\\Users\\brunocunha\\Desktop\\spritedex\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Bruno\\AndroidStudioProjects\\spritedex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher_foreground.png",
+        "source": "C:\\Users\\Bruno\\AndroidStudioProjects\\spritedex\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Bruno\\AndroidStudioProjects\\spritedex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher_round.png",
+        "source": "C:\\Users\\Bruno\\AndroidStudioProjects\\spritedex\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\brunocunha\\Desktop\\spritedex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\pokeball.png",
+        "source": "C:\\Users\\brunocunha\\Desktop\\spritedex\\app\\src\\main\\res\\mipmap-hdpi\\pokeball.png"
+    },
+    {
+        "merged": "C:\\Users\\Bruno\\AndroidStudioProjects\\spritedex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\pokeball.png",
+        "source": "C:\\Users\\Bruno\\AndroidStudioProjects\\spritedex\\app\\src\\main\\res\\mipmap-hdpi\\pokeball.png"
+    },
+    {
+        "merged": "C:\\Users\\Bruno\\AndroidStudioProjects\\spritedex\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Bruno\\AndroidStudioProjects\\spritedex\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

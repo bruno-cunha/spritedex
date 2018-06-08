@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpriteDex</string>
+    <string name="id">ID:</string>
+    <string name="name">Name:</string>
+    <string name="weight">Weight:</string>
+    <string name="height">Height:</string>
+    <string name="hint">Digite o nome aqui</string>
+    <string name="msgId">Falha ao carregar Pokemon ID: %s</string>
+    <string name="msg_erro">Pokemon %s não encontrado</string>
+    <string name="msg_erro_load">Falha ao carregar Pokemon %s</string>
+    <string name="msg_permissions">É preciso aceitar as permissões do aplicativo para acessar a funcionalidade</string>
+    <string name="msg_sucesso" formatted="false">Sprite do %s baixados para %s</string>
+    <string name="msg_service_off">Serviço fora do ar</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:title="Pesquisa"
+        android:iconifiedByDefault="false"
+        android:icon="@drawable/ic_search_black_36p"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView"/>
+
+    <item
+        android:id="@+id/action_generation_I"
+        android:title="Red, Green, Blue and Yellow"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/action_generation_II"
+        android:title="Gold, Silver, and Crystal"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/action_generation_III"
+        android:title="Ruby, Sapphire, and Emerald"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/action_generation_IV"
+        android:title="Diamond, Pearl, and Platinum"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/action_generation_V"
+        android:title="Black, White, Black 2, and White 2"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/action_generation_VI"
+        android:title="X and Y"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/action_generation_VII"
+        android:title="Sun and Moon"
+        app:showAsAction="collapseActionView" />
+</menu>
