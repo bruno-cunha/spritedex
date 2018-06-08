@@ -1,8 +1,12 @@
 # SpriteDex
 App para download de sprites dos pokemons de todas as gerações.
 
-<p >
+<p>
   <img src="https://github.com/bruno-cunha/spritedex/blob/master/app/src/main/assets/img_app.png" width="350"/>
+  <img src="https://github.com/bruno-cunha/spritedex/blob/master/app/src/main/assets/img_app2.png" width="350"/>
+  <img src="https://github.com/bruno-cunha/spritedex/blob/master/app/src/main/assets/img_app3.png" width="350"/>
+  <img src="https://github.com/bruno-cunha/spritedex/blob/master/app/src/main/assets/img_app6.png" width="350"/>
+  <img src="https://github.com/bruno-cunha/spritedex/blob/master/app/src/main/assets/img_app5.png" width="350"/>
 </p>
 
 # License
