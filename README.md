@@ -9,6 +9,9 @@ App para download de sprites dos pokemons de todas as gerações.
   <img src="https://github.com/bruno-cunha/spritedex/blob/master/app/src/main/assets/img_app5.png" width="250"/>
 </p>
 
+<a href="https://play.google.com/store/apps/details?id=com.pokemon.spritedex" target="_blank">
+<img src="https://play.google.com/intl/en_us/badges/images/generic/pt-br_badge_web_generic.png" alt="Disponível no Google Play" height="90"/></a>
+
 # License
 Copyright 2018 SpriteDex
 
