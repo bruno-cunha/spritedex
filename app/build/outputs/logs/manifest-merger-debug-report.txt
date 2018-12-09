@@ -1,179 +1,230 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:2:1-25:12
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\551a59731cf3e33e8851617cbd616cd9\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\55cff50f157ae98b1efe198e210c8fb4\AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\dfd776a5bb0964dcd541edd91037b8c0\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\99a3f109d90a90fe97c96fdd3965e5d2\AndroidManifest.xml:2:1-11:12
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\225c34001ecd1a8b63f8f222b400dd7d\AndroidManifest.xml:2:1-14:12
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\557f1fb0c2d8aa6656da6a159d264aa9\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\556b7e269640a7332ef6882588db742b\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4f58a0ddbe4d27d9f32f4507e21247ce\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\8f26d3efe28135b772e98818827626e7\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e5856746e387553f8d330867b2b82cea\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\9c7850d4b35ea1a9cf7c26a191e97798\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\59a4f0085b6d9d99519ce9f0ef6c8a72\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\77577b76f6faed984ff544936ba6acad\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\b90bde5c1f970b16133797b5ed07edaf\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cf3b457dc39350f24dc6e7755050d64/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/63d696dad1a6ef97a23f1bec7ed88109/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/a2f2d1e0d2a7d272cb9c6e5946e26f08/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e21fb20a1883f20f0ed89b23cfaa4b17/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/bruno/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bc7639efc328cfcc421d8cfe2d3320d/AndroidManifest.xml:2:1-14:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.7] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.7.aar/a0d715d571c63e7677aaa81e612d42b0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d82665dd76024a212a0ff7097dadaff6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/e44038db97f9c0fd83dbe68c6b54e263/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1553e5341394234613f2cb6954fb0de9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/82df1ded031e955d7b89b9009000d247/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c5c99f04fc9af48b62825284eae25cce/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b6080974cfae6895d988b1dbb616569c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ac36a8aeb8e6021ff9382128bfb6c248/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/98385e1bcb55785f1ec2e67e5a76cd7f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:exifinterface:27.1.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/ce0874fbc01bef6be1c79a26664f79ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/bruno/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/6fb93db6084419cd8d9a8a7267fe84d3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.6] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.6.aar/e7d4b1a16ca993f9b45f16d74dafceb0/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.5] /home/bruno/.gradle/caches/transforms-1/files-1.1/answers-1.4.5.aar/61480c1e91cc9e9b3172f74f929db170/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.6] /home/bruno/.gradle/caches/transforms-1/files-1.1/fabric-1.4.6.aar/d5609a42d5ba0dd22ffa4b172cdec3b1/AndroidManifest.xml:22:1-33:12
+INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:3:5-36
-		INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
+		INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
+		INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.7] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.7.aar/a0d715d571c63e7677aaa81e612d42b0/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.7] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.7.aar/a0d715d571c63e7677aaa81e612d42b0/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/bruno/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/6fb93db6084419cd8d9a8a7267fe84d3/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/bruno/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/6fb93db6084419cd8d9a8a7267fe84d3/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.6] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.6.aar/e7d4b1a16ca993f9b45f16d74dafceb0/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.6] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.6.aar/e7d4b1a16ca993f9b45f16d74dafceb0/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.5] /home/bruno/.gradle/caches/transforms-1/files-1.1/answers-1.4.5.aar/61480c1e91cc9e9b3172f74f929db170/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.5] /home/bruno/.gradle/caches/transforms-1/files-1.1/answers-1.4.5.aar/61480c1e91cc9e9b3172f74f929db170/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.6] /home/bruno/.gradle/caches/transforms-1/files-1.1/fabric-1.4.6.aar/d5609a42d5ba0dd22ffa4b172cdec3b1/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.6] /home/bruno/.gradle/caches/transforms-1/files-1.1/fabric-1.4.6.aar/d5609a42d5ba0dd22ffa4b172cdec3b1/AndroidManifest.xml:29:5-67
 	android:name
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:6:5-81
+ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:6:22-78
 application
-ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:8:5-23:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\551a59731cf3e33e8851617cbd616cd9\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\551a59731cf3e33e8851617cbd616cd9\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\dfd776a5bb0964dcd541edd91037b8c0\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\dfd776a5bb0964dcd541edd91037b8c0\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\99a3f109d90a90fe97c96fdd3965e5d2\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\99a3f109d90a90fe97c96fdd3965e5d2\AndroidManifest.xml:9:5-20
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\225c34001ecd1a8b63f8f222b400dd7d\AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\225c34001ecd1a8b63f8f222b400dd7d\AndroidManifest.xml:7:5-12:19
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\557f1fb0c2d8aa6656da6a159d264aa9\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\557f1fb0c2d8aa6656da6a159d264aa9\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\556b7e269640a7332ef6882588db742b\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\556b7e269640a7332ef6882588db742b\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4f58a0ddbe4d27d9f32f4507e21247ce\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4f58a0ddbe4d27d9f32f4507e21247ce\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\8f26d3efe28135b772e98818827626e7\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\8f26d3efe28135b772e98818827626e7\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e5856746e387553f8d330867b2b82cea\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e5856746e387553f8d330867b2b82cea\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\9c7850d4b35ea1a9cf7c26a191e97798\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\9c7850d4b35ea1a9cf7c26a191e97798\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\59a4f0085b6d9d99519ce9f0ef6c8a72\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\59a4f0085b6d9d99519ce9f0ef6c8a72\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\77577b76f6faed984ff544936ba6acad\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\77577b76f6faed984ff544936ba6acad\AndroidManifest.xml:29:5-20
+ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cf3b457dc39350f24dc6e7755050d64/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cf3b457dc39350f24dc6e7755050d64/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/a2f2d1e0d2a7d272cb9c6e5946e26f08/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/a2f2d1e0d2a7d272cb9c6e5946e26f08/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e21fb20a1883f20f0ed89b23cfaa4b17/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e21fb20a1883f20f0ed89b23cfaa4b17/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/bruno/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bc7639efc328cfcc421d8cfe2d3320d/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/bruno/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bc7639efc328cfcc421d8cfe2d3320d/AndroidManifest.xml:7:5-12:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.7] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.7.aar/a0d715d571c63e7677aaa81e612d42b0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.7] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.7.aar/a0d715d571c63e7677aaa81e612d42b0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d82665dd76024a212a0ff7097dadaff6/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d82665dd76024a212a0ff7097dadaff6/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/e44038db97f9c0fd83dbe68c6b54e263/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/e44038db97f9c0fd83dbe68c6b54e263/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1553e5341394234613f2cb6954fb0de9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1553e5341394234613f2cb6954fb0de9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/82df1ded031e955d7b89b9009000d247/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/82df1ded031e955d7b89b9009000d247/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c5c99f04fc9af48b62825284eae25cce/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c5c99f04fc9af48b62825284eae25cce/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b6080974cfae6895d988b1dbb616569c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b6080974cfae6895d988b1dbb616569c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ac36a8aeb8e6021ff9382128bfb6c248/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ac36a8aeb8e6021ff9382128bfb6c248/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/98385e1bcb55785f1ec2e67e5a76cd7f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/98385e1bcb55785f1ec2e67e5a76cd7f/AndroidManifest.xml:29:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/bruno/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/6fb93db6084419cd8d9a8a7267fe84d3/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/bruno/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/6fb93db6084419cd8d9a8a7267fe84d3/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.6] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.6.aar/e7d4b1a16ca993f9b45f16d74dafceb0/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.6] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.6.aar/e7d4b1a16ca993f9b45f16d74dafceb0/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.5] /home/bruno/.gradle/caches/transforms-1/files-1.1/answers-1.4.5.aar/61480c1e91cc9e9b3172f74f929db170/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.5] /home/bruno/.gradle/caches/transforms-1/files-1.1/answers-1.4.5.aar/61480c1e91cc9e9b3172f74f929db170/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.6] /home/bruno/.gradle/caches/transforms-1/files-1.1/fabric-1.4.6.aar/d5609a42d5ba0dd22ffa4b172cdec3b1/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.6] /home/bruno/.gradle/caches/transforms-1/files-1.1/fabric-1.4.6.aar/d5609a42d5ba0dd22ffa4b172cdec3b1/AndroidManifest.xml:31:5-20
 	android:supportsRtl
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:10:9-40
 	android:allowBackup
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:14:9-40
-activity#com.pokemon.spritedex.SpriteDexActivity
-ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:15:9-21:20
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.pokemon.spritedex.ui.activities.SpriteDexActivity
+ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:15:19-73
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:15:19-87
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:19:27-74
-activity#com.pokemon.spritedex.DetailActivity
-ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:22:9-73
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.pokemon.spritedex.ui.activities.DetailActivity
+ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:22:9-87
 	android:name
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml:22:19-70
-uses-sdk
-INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\551a59731cf3e33e8851617cbd616cd9\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\551a59731cf3e33e8851617cbd616cd9\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\55cff50f157ae98b1efe198e210c8fb4\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\55cff50f157ae98b1efe198e210c8fb4\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\dfd776a5bb0964dcd541edd91037b8c0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\dfd776a5bb0964dcd541edd91037b8c0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\99a3f109d90a90fe97c96fdd3965e5d2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\99a3f109d90a90fe97c96fdd3965e5d2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\225c34001ecd1a8b63f8f222b400dd7d\AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\225c34001ecd1a8b63f8f222b400dd7d\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\557f1fb0c2d8aa6656da6a159d264aa9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\557f1fb0c2d8aa6656da6a159d264aa9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\556b7e269640a7332ef6882588db742b\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\556b7e269640a7332ef6882588db742b\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4f58a0ddbe4d27d9f32f4507e21247ce\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4f58a0ddbe4d27d9f32f4507e21247ce\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\8f26d3efe28135b772e98818827626e7\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\8f26d3efe28135b772e98818827626e7\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e5856746e387553f8d330867b2b82cea\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e5856746e387553f8d330867b2b82cea\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\9c7850d4b35ea1a9cf7c26a191e97798\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\9c7850d4b35ea1a9cf7c26a191e97798\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\59a4f0085b6d9d99519ce9f0ef6c8a72\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\59a4f0085b6d9d99519ce9f0ef6c8a72\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\77577b76f6faed984ff544936ba6acad\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\77577b76f6faed984ff544936ba6acad\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\b90bde5c1f970b16133797b5ed07edaf\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\b90bde5c1f970b16133797b5ed07edaf\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\551a59731cf3e33e8851617cbd616cd9\AndroidManifest.xml:23:9-75
-	android:targetSdkVersion
-		INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Bruno\AndroidStudioProjects\spritedex\app\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\551a59731cf3e33e8851617cbd616cd9\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\55cff50f157ae98b1efe198e210c8fb4\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\55cff50f157ae98b1efe198e210c8fb4\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\dfd776a5bb0964dcd541edd91037b8c0\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\dfd776a5bb0964dcd541edd91037b8c0\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\557f1fb0c2d8aa6656da6a159d264aa9\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\557f1fb0c2d8aa6656da6a159d264aa9\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\556b7e269640a7332ef6882588db742b\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\556b7e269640a7332ef6882588db742b\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4f58a0ddbe4d27d9f32f4507e21247ce\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4f58a0ddbe4d27d9f32f4507e21247ce\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\8f26d3efe28135b772e98818827626e7\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\8f26d3efe28135b772e98818827626e7\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e5856746e387553f8d330867b2b82cea\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e5856746e387553f8d330867b2b82cea\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\9c7850d4b35ea1a9cf7c26a191e97798\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\9c7850d4b35ea1a9cf7c26a191e97798\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\59a4f0085b6d9d99519ce9f0ef6c8a72\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\59a4f0085b6d9d99519ce9f0ef6c8a72\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\77577b76f6faed984ff544936ba6acad\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\77577b76f6faed984ff544936ba6acad\AndroidManifest.xml:25:5-27:34
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:22:19-84
+meta-data#io.fabric.ApiKey
+ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:23:9-25:71
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\551a59731cf3e33e8851617cbd616cd9\AndroidManifest.xml:27:9-31
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:25:13-69
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\551a59731cf3e33e8851617cbd616cd9\AndroidManifest.xml:26:9-47
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml:24:13-44
+uses-sdk
+INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
+INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cf3b457dc39350f24dc6e7755050d64/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cf3b457dc39350f24dc6e7755050d64/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/63d696dad1a6ef97a23f1bec7ed88109/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/63d696dad1a6ef97a23f1bec7ed88109/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/a2f2d1e0d2a7d272cb9c6e5946e26f08/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/a2f2d1e0d2a7d272cb9c6e5946e26f08/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e21fb20a1883f20f0ed89b23cfaa4b17/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bruno/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e21fb20a1883f20f0ed89b23cfaa4b17/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/bruno/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bc7639efc328cfcc421d8cfe2d3320d/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/bruno/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bc7639efc328cfcc421d8cfe2d3320d/AndroidManifest.xml:5:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.7] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.7.aar/a0d715d571c63e7677aaa81e612d42b0/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.7] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.7.aar/a0d715d571c63e7677aaa81e612d42b0/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d82665dd76024a212a0ff7097dadaff6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d82665dd76024a212a0ff7097dadaff6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/e44038db97f9c0fd83dbe68c6b54e263/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/e44038db97f9c0fd83dbe68c6b54e263/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1553e5341394234613f2cb6954fb0de9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1553e5341394234613f2cb6954fb0de9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/82df1ded031e955d7b89b9009000d247/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/82df1ded031e955d7b89b9009000d247/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c5c99f04fc9af48b62825284eae25cce/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c5c99f04fc9af48b62825284eae25cce/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b6080974cfae6895d988b1dbb616569c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b6080974cfae6895d988b1dbb616569c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ac36a8aeb8e6021ff9382128bfb6c248/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ac36a8aeb8e6021ff9382128bfb6c248/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/98385e1bcb55785f1ec2e67e5a76cd7f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/98385e1bcb55785f1ec2e67e5a76cd7f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:exifinterface:27.1.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/ce0874fbc01bef6be1c79a26664f79ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/bruno/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/ce0874fbc01bef6be1c79a26664f79ed/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/bruno/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/6fb93db6084419cd8d9a8a7267fe84d3/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/bruno/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/6fb93db6084419cd8d9a8a7267fe84d3/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.6] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.6.aar/e7d4b1a16ca993f9b45f16d74dafceb0/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.6] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.6.aar/e7d4b1a16ca993f9b45f16d74dafceb0/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.5] /home/bruno/.gradle/caches/transforms-1/files-1.1/answers-1.4.5.aar/61480c1e91cc9e9b3172f74f929db170/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.5] /home/bruno/.gradle/caches/transforms-1/files-1.1/answers-1.4.5.aar/61480c1e91cc9e9b3172f74f929db170/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.6] /home/bruno/.gradle/caches/transforms-1/files-1.1/fabric-1.4.6.aar/d5609a42d5ba0dd22ffa4b172cdec3b1/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.6] /home/bruno/.gradle/caches/transforms-1/files-1.1/fabric-1.4.6.aar/d5609a42d5ba0dd22ffa4b172cdec3b1/AndroidManifest.xml:27:5-43
+INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
+INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cf3b457dc39350f24dc6e7755050d64/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
+		ADDED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bruno/AndroidStudioProjects/spritedex/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cf3b457dc39350f24dc6e7755050d64/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/63d696dad1a6ef97a23f1bec7ed88109/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/63d696dad1a6ef97a23f1bec7ed88109/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/a2f2d1e0d2a7d272cb9c6e5946e26f08/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/a2f2d1e0d2a7d272cb9c6e5946e26f08/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d82665dd76024a212a0ff7097dadaff6/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d82665dd76024a212a0ff7097dadaff6/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/e44038db97f9c0fd83dbe68c6b54e263/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/e44038db97f9c0fd83dbe68c6b54e263/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1553e5341394234613f2cb6954fb0de9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/1553e5341394234613f2cb6954fb0de9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/82df1ded031e955d7b89b9009000d247/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/82df1ded031e955d7b89b9009000d247/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c5c99f04fc9af48b62825284eae25cce/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c5c99f04fc9af48b62825284eae25cce/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b6080974cfae6895d988b1dbb616569c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/b6080974cfae6895d988b1dbb616569c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ac36a8aeb8e6021ff9382128bfb6c248/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ac36a8aeb8e6021ff9382128bfb6c248/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/98385e1bcb55785f1ec2e67e5a76cd7f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/98385e1bcb55785f1ec2e67e5a76cd7f/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cf3b457dc39350f24dc6e7755050d64/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cf3b457dc39350f24dc6e7755050d64/AndroidManifest.xml:26:9-47
 provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\225c34001ecd1a8b63f8f222b400dd7d\AndroidManifest.xml:8:9-11:40
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/bruno/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bc7639efc328cfcc421d8cfe2d3320d/AndroidManifest.xml:8:9-11:40
 	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\225c34001ecd1a8b63f8f222b400dd7d\AndroidManifest.xml:10:13-72
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/bruno/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bc7639efc328cfcc421d8cfe2d3320d/AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\225c34001ecd1a8b63f8f222b400dd7d\AndroidManifest.xml:11:13-37
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/bruno/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bc7639efc328cfcc421d8cfe2d3320d/AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Bruno\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\225c34001ecd1a8b63f8f222b400dd7d\AndroidManifest.xml:9:13-64
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/bruno/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/7bc7639efc328cfcc421d8cfe2d3320d/AndroidManifest.xml:9:13-64
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.7] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.7.aar/a0d715d571c63e7677aaa81e612d42b0/AndroidManifest.xml:12:9-16:38
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.7] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.7.aar/a0d715d571c63e7677aaa81e612d42b0/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.7] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.7.aar/a0d715d571c63e7677aaa81e612d42b0/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.7] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.7.aar/a0d715d571c63e7677aaa81e612d42b0/AndroidManifest.xml:16:13-35
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.7] /home/bruno/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.7.aar/a0d715d571c63e7677aaa81e612d42b0/AndroidManifest.xml:13:13-75

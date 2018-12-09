@@ -11,6 +11,7 @@ import android.support.v4.content.ContextCompat;
 import android.util.Log;
 import android.widget.Toast;
 
+import com.crashlytics.android.Crashlytics;
 import com.pokemon.spritedex.R;
 import com.pokemon.spritedex.model.pojo.Pokemon;
 import com.pokemon.spritedex.ui.activities.SpriteDexActivity;
@@ -166,6 +167,7 @@ public class Download {
                             fileoutputstream.close();
                         } catch (IOException e) {
                             Log.e("IOException", e.getLocalizedMessage());
+                            Crashlytics.logException(e);
                         }
                     }
                 }).start();

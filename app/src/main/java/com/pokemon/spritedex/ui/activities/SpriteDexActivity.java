@@ -19,6 +19,7 @@ import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
+import com.crashlytics.android.Crashlytics;
 import com.pokemon.spritedex.ui.adapters.SpriteDexAdapter;
 import com.pokemon.spritedex.R;
 import com.pokemon.spritedex.model.api.PokeApi;
@@ -29,6 +30,7 @@ import com.pokemon.spritedex.model.service.ApiClient;
 import java.util.ArrayList;
 import java.util.List;
 
+import io.fabric.sdk.android.Fabric;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
@@ -52,6 +54,7 @@ public class SpriteDexActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        Fabric.with(this, new Crashlytics());
         setContentView(R.layout.activity_main);
         progressBar = (ProgressBar) findViewById(R.id.progress_Bar);
         recyclerView = (RecyclerView) findViewById(R.id.rv_Pokemons);

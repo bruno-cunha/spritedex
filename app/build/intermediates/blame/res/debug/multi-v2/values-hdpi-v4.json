@@ -1,58 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Bruno\\AndroidStudioProjects\\spritedex\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "outputFile": "/home/bruno/AndroidStudioProjects/spritedex/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Bruno\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\551a59731cf3e33e8851617cbd616cd9\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "13",
-                        "endOffsets": "327"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\Bruno\\AndroidStudioProjects\\spritedex\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Bruno\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\551a59731cf3e33e8851617cbd616cd9\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "13",
-                        "endOffsets": "327"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\brunocunha\\Desktop\\spritedex\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\brunocunha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\e7b4a127b302c88a51d92b5b4af416a4\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "13",
-                        "endOffsets": "327"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\brunocunha\\Desktop\\spritedex\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\brunocunha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\e7b4a127b302c88a51d92b5b4af416a4\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "/home/bruno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5cf3b457dc39350f24dc6e7755050d64/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
