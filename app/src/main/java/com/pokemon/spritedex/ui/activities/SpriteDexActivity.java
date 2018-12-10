@@ -16,10 +16,16 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.crashlytics.android.Crashlytics;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdSize;
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.MobileAds;
+import com.pokemon.spritedex.model.pojo.util.ApiKey;
 import com.pokemon.spritedex.ui.adapters.SpriteDexAdapter;
 import com.pokemon.spritedex.R;
 import com.pokemon.spritedex.model.api.PokeApi;
@@ -50,6 +56,8 @@ public class SpriteDexActivity extends AppCompatActivity {
     private String pesqQuery = "";
     private List<Call<Pokemon>> calls = new ArrayList<>();
     private Toast toast;
+    private LinearLayout container;
+    private AdView adView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -93,6 +101,17 @@ public class SpriteDexActivity extends AppCompatActivity {
         pokeApi = retrofit.create(PokeApi.class);
         carregaPokemons(1, 151);
         //carregaPokemonsMock();
+
+        //Ads
+        MobileAds.initialize(this, ApiKey.AppId);
+        container = (LinearLayout) findViewById(R.id.container);
+        adView = new AdView(this);
+        adView.setAdSize(AdSize.SMART_BANNER);
+        adView.setLayoutParams(new AdView.LayoutParams(AdView.LayoutParams.MATCH_PARENT, AdView.LayoutParams.WRAP_CONTENT));
+        adView.setAdUnitId(ApiKey.AdUnitId);
+        container.addView(adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        adView.loadAd(adRequest);
     }
 
     public synchronized void carregaPokemons(int ini, int fim){
